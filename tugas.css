@@ -1,0 +1,19 @@
+Body{
+    background: #f7faff;
+    font-family: 'Manrope', sans-serif;
+}
+
+a.navbar-brand{
+    color: black;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.navbar .nav-link{
+    color: black;
+}
+
+.navbar .nav-link.active{
+    color: blue;
+    font-weight: bold;
+}
